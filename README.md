@@ -13,7 +13,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 Sr  | Problems                                                                                    | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Evaluate Reverse Polish Notation]()                                                     | [![Problem Link]()](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                     | ✅
-2   | [Combination Sum III]()                                                   | [![Problem Link]()](https://leetcode.com/problems/combination-sum-iii/)                                        											   																															| 
+2   | [Combination Sum III]()                                                   | [![Problem Link]()](https://leetcode.com/problems/combination-sum-iii/)                                        											   																															| ✅
 3   | [Bulls and Cows]()   | [![Problem Link]()](https://leetcode.com/problems/bulls-and-cows/)    |
  
  
