@@ -13,8 +13,8 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Evaluate Reverse Polish Notation](./goldman-sachs/print-anagrams-together.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                              | ✅
-2   | [Combination Sum III](./goldman-sachs/overlapping-rectangles1924.md)                                                   | [![Problem Link]()](https://leetcode.com/problems/combination-sum-iii/)                            | ✅
-3   | [Bulls and Cows](./goldman-sachs/count-the-subarrays-having-product-less-than-k1708.md)   | [![Problem Link]()](https://leetcode.com/problems/bulls-and-cows/)    | ✅
+2   | [Combination Sum III](./goldman-sachs/overlapping-rectangles1924.md)                                                   | [![Problem Link]()](https://leetcode.com/problems/combination-sum-iii/)                            | 
+3   | [Bulls and Cows](./goldman-sachs/count-the-subarrays-having-product-less-than-k1708.md)   | [![Problem Link]()](https://leetcode.com/problems/bulls-and-cows/)    | 
 
 </details>
 
