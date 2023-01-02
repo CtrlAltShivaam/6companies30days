@@ -15,7 +15,7 @@ Sr  | Problems                                                                  
 1   | [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.](Microsoft/EvaluateReversePolishNotation.java)                                                     | [Problem Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                     | ✅
 2   | [Combination Sum with a twist.](Microsoft/CombinationSum3.java)                                                   | [Problem Link](https://leetcode.com/problems/combination-sum-iii/)                                        											   																															| ✅
 3   | [Bulls and Cows](Microsoft/Bulls%20and%20Cows.java)   | [Problem Link](https://leetcode.com/problems/bulls-and-cows/)    | ✅
-4   | [You are given an integer array nums of length n. Return maximum length of Rotation Function]()                                                             | [Problem Link](https://leetcode.com/problems/rotate-function/)                                   |
+4   | [You are given an integer array nums of length n. Return maximum length of Rotation Function]()                                                             | [Problem Link](https://leetcode.com/problems/rotate-function/)                                   | ✅
 5   | [Largest Divisible Subset.]()                                                     | [Problem Link](https://leetcode.com/problems/largest-divisible-subset/)                              |  
 6   | [How to find a perfect Rectangle.]()                                                     | [Problem Link](https://leetcode.com/problems/perfect-rectangle/)                              |  
 7   | [Scheduling a Course.]()                                                     | [Problem Link](https://leetcode.com/problems/course-schedule/)                              |  
@@ -26,7 +26,7 @@ Sr  | Problems                                                                  
 12   | [Longest Happy Prefix]()                                                     | [Problem Link](https://leetcode.com/problems/longest-happy-prefix/)                              | 
 13   | [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22]()                                                     | [Problem Link](https://leetcode.com/problems/airplane-seat-assignment-probability/)                              |  
 14  | [Minimum Deletions to Make Array Divisible]()                                                     | [Problem Link](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)                              |  
-15  | [Substrings Containing All Three Characters]()                                                     | [Problem Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)                              | 
+15  | [Substrings Containing All Three Characters]()                                                     | [Problem Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)                              | ✅
  
 </details>
 
