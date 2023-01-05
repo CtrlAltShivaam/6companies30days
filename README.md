@@ -24,7 +24,7 @@ Sr  | Problems                                                                  
 10   | [Shortest Unsorted Continuous Subarray]()                                                     | [Problem Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                              |  ✅
 11   | [Number of Ways to Arrive at Destination]()                                                     | [Problem Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)                              | Pending
 12   | [Longest Happy Prefix]()                                                     | [Problem Link](https://leetcode.com/problems/longest-happy-prefix/)                              | ✅
-13   | [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22]()                                                     | [Problem Link](https://leetcode.com/problems/airplane-seat-assignment-probability/)                              |  
+13   | [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22]()                                                     | [Problem Link](https://leetcode.com/problems/airplane-seat-assignment-probability/)                              | ✅
 14  | [Minimum Deletions to Make Array Divisible]()                                                     | [Problem Link](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)                              |  
 15  | [Substrings Containing All Three Characters]()                                                     | [Problem Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)                              | ✅
  
