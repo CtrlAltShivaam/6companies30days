@@ -95,11 +95,35 @@ Sr  | Problems                                                                  
 9   | [Top K frequent Words](/Flipkart/Top%20K%20Frequent%20Words.java)                                                     | [Problem Link](https://leetcode.com/problems/top-k-frequent-words/)                              | ✅
 10   | [Distant Barcodes]()                                                     | [Problem Link](https://leetcode.com/problems/distant-barcodes/)                              | ✅
 11   | [The new game to Play]()                                                     | [Problem Link](https://leetcode.com/problems/new-21-game/)                              | 
-12   | [Check If a String Contains All Binary Codes of Size K](/Adobe/Shortest%20Unsorted%20Continuous%20Subarray.java)                                                     | [Problem Link]()                              | 
-13   | [Max Area of Island]()                                                     | [Problem Link](https://leetcode.com/problems/max-area-of-island/https://leetcode.com/problems/max-area-of-island/)                              | 
+12   | [Check If a String Contains All Binary Codes of Size K](/Adobe/Shortest%20Unsorted%20Continuous%20Subarray.java)                                                     | [Problem Link](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)                              | 
+13   | [Max Area of Island]()                                                     | [Problem Link](https://leetcode.com/problems/max-area-of-island/)                              | 
 14  | [Custom String Sorting]()                                                     | [Problem Link](https://leetcode.com/problems/custom-sort-string/)                              | 
 15  | [House Robber - Very Imp]()                                                     | [Problem Link](https://leetcode.com/problems/house-robber-iii/)                              | 
  
 </details>
 
+
+
+<details>
+<summary style="font-size: 1.2em">Google (0/15)</summary>
+
+Sr  | Problems                                                                                    | TryIt                                                                                                                                     | Status
+----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Maximum Consecutive Floors Without Special Floors]()                                                     | [Problem Link](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)                                                     | 
+2   | [Maximum Good People Based on Statements]()                                                   | [Problem Link](https://leetcode.com/problems/maximum-good-people-based-on-statements/)                                        											   																															| 
+3   | [Sort an array ]()   | [Problem Link](https://leetcode.com/problems/sort-an-array/)    | 
+4   | [Fruit into Baskets]()                                                             | [Problem Link](https://leetcode.com/problems/fruit-into-baskets/)                                   | ✅
+5   | [Number of Closed Islands]()                                                     | [Problem Link](https://leetcode.com/problems/number-of-closed-islands/)                              | 
+6   | [Distinct Echo Substrings]()                                                     | [Problem Link](https://leetcode.com/problems/distinct-echo-substrings/)                              |  
+7   | [K divisible Array Substrings]()                                                     | [Problem Link](https://leetcode.com/problems/k-divisible-elements-subarrays/)                              | 
+8   | [Random Pick with Weight (New Project at Google Play Services)]()                                                     | [Problem Link](https://leetcode.com/problems/random-pick-with-weight/)                              | ✅
+9   | [Maximum Numbers of Coins you can get]()                                                     | [Problem Link](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                              | ✅
+10   | [Network Delay Time]()                                                     | [Problem Link](https://leetcode.com/problems/network-delay-time/)                              | ✅
+11   | [Matrix Block Sum]()                                                     | [Problem Link](https://leetcode.com/problems/matrix-block-sum/)                              | 
+12   | [Restore IP Addresses]()                                                     | [Problem Link](https://leetcode.com/problems/restore-ip-addresses/)                              | 
+13   | [Swim in rising Water (Jeff and the rising hat)]()                                                     | [Problem Link](https://leetcode.com/problems/swim-in-rising-water/)                              | 
+14  | [Strictly Palindromic Number]()                                                     | [Problem Link](https://leetcode.com/problems/strictly-palindromic-number/)                              | 
+15  | [House Robber - Very Imp]()                                                     | [Problem Link](https://leetcode.com/problems/maximum-compatibility-score-sum/)                              | 
+ 
+</details>
 
