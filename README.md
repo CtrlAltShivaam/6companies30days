@@ -105,14 +105,14 @@ Sr  | Problems                                                                  
 
 
 <details>
-<summary style="font-size: 1.2em">Google (0/15)</summary>
+<summary style="font-size: 1.2em">Google (5/15)</summary>
 
 Sr  | Problems                                                                                    | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Maximum Consecutive Floors Without Special Floors](/Google/Maximum%20Consecutive%20Floors%20Without%20Special%20Floors.java)                                                     | [Problem Link](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)                                                     | ✅
 2   | [Maximum Good People Based on Statements]()                                                   | [Problem Link](https://leetcode.com/problems/maximum-good-people-based-on-statements/)                                        											   																															| 
 3   | [Sort an array ](/Google/Sort%20an%20Array.java)   | [Problem Link](https://leetcode.com/problems/sort-an-array/)    | ✅
-4   | [Fruit into Baskets]()                                                             | [Problem Link](https://leetcode.com/problems/fruit-into-baskets/)                                   | 
+4   | [Fruit into Baskets](/Google/Fruit%20Into%20Baskets.java)                                                             | [Problem Link](https://leetcode.com/problems/fruit-into-baskets/)                                   | ✅
 5   | [Number of Closed Islands]()                                                     | [Problem Link](https://leetcode.com/problems/number-of-closed-islands/)                              | 
 6   | [Distinct Echo Substrings]()                                                     | [Problem Link](https://leetcode.com/problems/distinct-echo-substrings/)                              |  
 7   | [K divisible Array Substrings](/Google/K%20Divisible%20Elements%20Subarrays.java)                                                     | [Problem Link](https://leetcode.com/problems/k-divisible-elements-subarrays/)                              | ✅
